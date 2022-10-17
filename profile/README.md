@@ -1,4 +1,4 @@
-## Hi there, we're Emico a Dutch E-Commerce Development Agency 👋
+## Hi there, we're Emico a Dutch E-Commerce Agency 👋
 
 We focus on developing high performance and resilient E-Commerce Applications.
 
